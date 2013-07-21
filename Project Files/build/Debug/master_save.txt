@@ -1,0 +1,4 @@
+PLAYER_TAG````````````````HIGH_SCORE````````AVERAGES
+LYLE                       -5.714286       +0.000000
+
+

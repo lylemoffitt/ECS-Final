@@ -1,0 +1,597 @@
+TProject Files
+v7
+r0
+t389819634.750777
+cCheck dependencies
+cCompileC "build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/main.alpha.o" "/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c" normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/DictMakeLetterLength.c
+c000000005179E0B3000000000000042D
+t1366941875
+s1069
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/DictionaryDividers.c
+c0000000051799EF900000000000008F8
+t1366925049
+s2296
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/DictionaryFileFormator.c
+c00000000517C0A340000000000000808
+t1367083572
+s2056
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c
+c0000000051799B300000000000000AE2
+t1366924080
+s2786
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/DictionaryStats.c
+c0000000051799EEC00000000000008F8
+t1366925036
+s2296
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug/Project Files
+t1368126823
+s53352
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/DictMakeLetterLength.o
+t1366941875
+s4792
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/DictionaryDividers.o
+t1366925056
+s6624
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/DictionaryFileFormator.o
+t1367083572
+s5884
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/DictionarySort.o
+t2
+s0
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/DictionaryStats.o
+t1366924845
+s5740
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/Project Files.LinkFileList
+c00000000518B9776000000000000008F
+t1368102774
+s143
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/dict_chk.o
+t1367099396
+s5300
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/main.1.o
+t1367353822
+s32696
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/main.alpha.i
+t1368102652
+s89749
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/main.alpha.o
+t1368126834
+s90260
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/main.o
+t1363938150
+s19376
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/main.old.o
+t1367354324
+s25368
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/mainNEW.o
+t1368037968
+s75148
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/read_in.o
+t1367347059
+s32560
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/test.o
+t1367125058
+s8808
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/testbed.o
+t1367876423
+s7328
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/word_searcher.o
+t2
+s0
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/StaticAnalyzer/normal/x86_64/main.alpha.plist
+t1368126829
+s22582
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/StaticAnalyzer/normal/x86_64/main.old.plist
+t2
+s0
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/StaticAnalyzer/normal/x86_64/mainNEW.plist
+t1368037970
+s7687
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/dict_chk.c
+c00000000517C481B0000000000000CA9
+t1367099419
+s3241
+i<stdio.h>
+i<time.h>
+i<stdlib.h>
+i<string.h>
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/main.1.c
+c0000000051802A2900000000000074C4
+t1367353897
+s29892
+i<stdio.h>
+i<time.h>
+i<stdlib.h>
+i<string.h>
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c
+c00000000518BF69C000000000000C51F
+t1368127132
+s50463
+i<stdio.h>
+i<time.h>
+i<stdlib.h>
+i<string.h>
+i<ctype.h>
+i<math.h>
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/main.c
+c00000000514C0B660000000000004585
+t1363938150
+s17797
+i<stdio.h>
+i<time.h>
+i<stdlib.h>
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/main.old.c
+c000000005180341A00000000000061C7
+t1367356442
+s25031
+i<stdio.h>
+i<time.h>
+i<stdlib.h>
+i<string.h>
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c
+c00000000518A9A60000000000000A7E7
+t1368037984
+s42983
+i<stdio.h>
+i<time.h>
+i<stdlib.h>
+i<string.h>
+i<ctype.h>
+i<math.h>
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/read_in.c
+c0000000051802765000000000000602D
+t1367353189
+s24621
+i<stdio.h>
+i<time.h>
+i<stdlib.h>
+i<string.h>
+i<ctype.h>
+i<math.h>
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/test.c
+c00000000517CADAE000000000000160D
+t1367125422
+s5645
+i<stdio.h>
+i<time.h>
+i<stdlib.h>
+i<string.h>
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/testbed.c
+c000000005188234700000000000005F6
+t1367876423
+s1526
+i<stdio.h>
+i<time.h>
+i<stdlib.h>
+i<string.h>
+i<ctype.h>
+
+N/Developer/ECS 102 Projects/Final Project/Project Files/word_searcher.c
+c00000000517CADDD000000000000160D
+t1367125469
+s5645
+i<stdio.h>
+i<time.h>
+i<stdlib.h>
+i<string.h>
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c0000000050B4BC0900000000000000EE
+t1354021897
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/ctype.h
+c000000004BBD2CE90000000000002C18
+t1270689001
+s11288
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004BBD2CE90000000000002DF5
+t1270689001
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/time.h
+c000000004BBD2CE9000000000000178E
+t1270689001
+s6030
+
+C<C0004:'CompileC main.alpha.o':P8:W0>
+s389795452.762066
+e389795452.835792
+r1
+xCompileC
+xbuild/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/main.alpha.o
+x/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@76"Compile /Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389795452#389795452#0(0"0(0#0#68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c7939128661845044224#1751"    cd "/Developer/ECS 102 Projects/Final Project/Project Files"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Werror-implicit-function-declaration -Wreturn-type -Wmissing-braces -Wparentheses -Wunused-variable -Wshadow -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-generated-files.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-own-target-headers.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-all-target-headers.hmap" -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-project-headers.hmap" "-F/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug/include" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources/x86_64" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources" -fpch-preprocess -E "/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c" -o "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/main.alpha.i"0#
+
+CAnalyze "/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c"
+s389819623.339061
+e389819629.283005
+r1
+xAnalyze
+x/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c
+o/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c:880:2:{880:9-880:17}: warning: Function call argument is an uninitialized value
+o         fclose(file_ptr);
+o         ^      ~~~~~~~~
+o/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c:1143:4:{1143:27-1143:36}: warning: Function call argument is an uninitialized value
+o                         sscanf(temp, "%lf %lf",highs[49],avgs[49]);
+o                         ^                      ~~~~~~~~~
+o/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c:1151:18:{1151:8-1151:16}: warning: Branch condition evaluates to a garbage value
+o                 if ((highs[i]) && 1) 
+o                      ~~~~~~~~  ^
+o3 warnings generated.
+lSLF07#2@76"Analyze /Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#389819629#0(726"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c:880:2:{880:9-880:17}: warning: Function call argument is an uninitialized value         fclose(file_ptr);         ^      ~~~~~~~~/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c:1143:4:{1143:27-1143:36}: warning: Function call argument is an uninitialized value                         sscanf(temp, "%lf %lf",highs[49],avgs[49]);                         ^                      ~~~~~~~~~/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c:1151:18:{1151:8-1151:16}: warning: Branch condition evaluates to a garbage value                 if ((highs[i]) && 1)                       ~~~~~~~~  ^3 warnings generated.3(0@48"Function call argument is an uninitialized value389819629#18446744073709551615#0#7(17@0"389819629#18446744073709551615#0#0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#0"0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#1(3@6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#851#2#851#2#6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#857#2#857#16#21@53"Variable 'file_ptr' declared without an initial value389819629#18446744073709551615#0#0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#857#2#0#0#0"1(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#857#2#857#16#53"Variable 'file_ptr' declared without an initial value17@0"389819629#18446744073709551615#0#0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#0"0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#1(3@6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#857#2#857#16#6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#863#2#863#2#17@0"389819629#18446744073709551615#0#0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#0"0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#1(3@6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#863#2#863#2#6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#865#2#865#2#17@0"389819629#18446744073709551615#0#0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#0"0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#1(3@6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#865#2#865#2#6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#869#2#869#2#17@0"389819629#18446744073709551615#0#0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#0"0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#1(3@6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#869#2#869#2#6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#880#2#880#17#21@48"Function call argument is an uninitialized value389819629#18446744073709551615#0#0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#880#2#0#0#0"1(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#880#9#880#16#48"Function call argument is an uninitialized value6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#880#2#0#0#11"Logic error0(48"Function call argument is an uninitialized value0@48"Function call argument is an uninitialized value389819629#18446744073709551615#0#5(17@0"389819629#18446744073709551615#0#0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#0"0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#1(3@6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#1123#2#1123#2#6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#1139#2#1139#2#17@0"389819629#18446744073709551615#0#0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#0"0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#1(3@6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#1139#2#1139#2#6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#1141#3#1141#3#17@0"389819629#18446744073709551615#0#0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#0"0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#1(3@6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#1141#3#1141#3#6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#1142#4#1142#4#17@0"389819629#18446744073709551615#0#0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#0"0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#1(3@6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#1142#4#1142#4#6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#1143#4#1143#45#21@48"Function call argument is an uninitialized value389819629#18446744073709551615#0#0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#1143#4#0#0#0"1(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#1143#27#1143#35#48"Function call argument is an uninitialized value6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#1143#4#0#0#11"Logic error0(48"Function call argument is an uninitialized value0@45"Branch condition evaluates to a garbage value389819629#18446744073709551615#0#10(17@0"389819629#18446744073709551615#0#0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#0"0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#1(3@6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#1123#2#1123#2#6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#1139#2#1139#2#17@0"389819629#18446744073709551615#0#0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#0"0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#1(3@6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#1139#2#1139#2#6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#1147#2#1147#2#17@0"389819629#18446744073709551615#0#0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#0"0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#1(3@6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#1147#2#1147#2#6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#1150#2#1150#2#17@0"389819629#18446744073709551615#0#0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#0"0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#1(3@6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#1150#2#1150#2#6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#1151#3#1151#3#17@0"389819629#18446744073709551615#0#0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#0"0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#1(3@6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#1151#3#1151#3#6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#1151#8#1151#8#17@0"389819629#18446744073709551615#0#0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#0"0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#1(3@6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#1151#8#1151#8#6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#1150#2#1150#4#21@36"Looping back to the head of the loop389819629#18446744073709551615#0#0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#1150#2#0#0#0"1(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#1150#2#1150#4#36"Looping back to the head of the loop17@0"389819629#18446744073709551615#0#0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#0"0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#1(3@6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#1150#2#1150#4#6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#1151#3#1151#3#17@0"389819629#18446744073709551615#0#0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#0"0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#0#0#0#0#1(3@6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#1151#3#1151#3#6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#1151#8#1151#8#21@45"Branch condition evaluates to a garbage value389819629#18446744073709551615#0#0(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#1151#7#0#0#0"1(6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#1151#8#1151#15#45"Branch condition evaluates to a garbage value6@68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819623#1151#7#0#0#11"Logic error0(45"Branch condition evaluates to a garbage value0#0#68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c8650189184#1752"    cd "/Developer/ECS 102 Projects/Final Project/Project Files"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Werror-implicit-function-declaration -Wreturn-type -Wmissing-braces -Wparentheses -Wunused-variable -Wshadow -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-generated-files.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-own-target-headers.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-all-target-headers.hmap" -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-project-headers.hmap" "-F/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug/include" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources/x86_64" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources" --analyze "/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c" -o "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/StaticAnalyzer/normal/x86_64/main.alpha.plist"0#
+
+CAnalyze "/Developer/ECS 102 Projects/Final Project/Project Files/main.old.c"
+r0
+
+CAnalyze "/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c"
+s389730768.559930
+e389730770.207207
+r1
+xAnalyze
+x/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c
+o/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:1137:2: warning: Dereference of undefined pointer value
+o         numgames[i] = 1;
+o         ^
+o/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:1277:7:{1277:12-1277:29}: warning: Value stored to 'nl' is never read
+o                                                 nl = (char)getc(cache);         // Add \n
+o                                                 ^    ~~~~~~~~~~~~~~~~~
+o2 warnings generated.
+lSLF07#2@73"Analyze /Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#389730770#0(480"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:1137:2: warning: Dereference of undefined pointer value         numgames[i] = 1;         ^/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:1277:7:{1277:12-1277:29}: warning: Value stored to 'nl' is never read                                                 nl = (char)getc(cache);         // Add \n                                                 ^    ~~~~~~~~~~~~~~~~~2 warnings generated.2(0@38"Dereference of undefined pointer value389730770#18446744073709551615#0#6(17@0"389730770#18446744073709551615#0#0(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#0#0#0#0#0"0(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#0#0#0#0#1(3@6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1107#2#1107#2#6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1115#2#1115#15#21@53"Variable 'numgames' declared without an initial value389730770#18446744073709551615#0#0(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1115#2#0#0#0"1(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1115#2#1115#15#53"Variable 'numgames' declared without an initial value17@0"389730770#18446744073709551615#0#0(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#0#0#0#0#0"0(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#0#0#0#0#1(3@6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1115#2#1115#15#6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1130#2#1130#2#17@0"389730770#18446744073709551615#0#0(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#0#0#0#0#0"0(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#0#0#0#0#1(3@6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1130#2#1130#2#6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1130#12#1130#12#17@0"389730770#18446744073709551615#0#0(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#0#0#0#0#0"0(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#0#0#0#0#1(3@6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1130#12#1130#12#6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1137#2#1137#12#21@38"Dereference of undefined pointer value389730770#18446744073709551615#0#0(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1137#2#0#0#0"1(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1137#2#1137#12#38"Dereference of undefined pointer value6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1137#2#0#0#11"Logic error0(38"Dereference of undefined pointer value0@34"Value stored to 'nl' is never read389730770#18446744073709551615#0#1(21@34"Value stored to 'nl' is never read389730770#18446744073709551615#0#0(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1277#7#0#0#0"1(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1277#12#1277#28#34"Value stored to 'nl' is never read6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1277#7#0#0#10"Dead store0(15"Dead assignment0#0#65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c8624636096#1746"    cd "/Developer/ECS 102 Projects/Final Project/Project Files"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Werror-implicit-function-declaration -Wreturn-type -Wmissing-braces -Wparentheses -Wunused-variable -Wshadow -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-generated-files.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-own-target-headers.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-all-target-headers.hmap" -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-project-headers.hmap" "-F/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug/include" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources/x86_64" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources" --analyze "/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c" -o "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/StaticAnalyzer/normal/x86_64/mainNEW.plist"0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies389819634#389819634#0(0"0(0#1#0"8649875424#0"0#
+
+CCompileC "build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/DictMakeLetterLength.o" "/Developer/ECS 102 Projects/Final Project/Project Files/DictMakeLetterLength.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s388634675.766512
+e388634675.812141
+r1
+xCompileC
+xbuild/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/DictMakeLetterLength.o
+x/Developer/ECS 102 Projects/Final Project/Project Files/DictMakeLetterLength.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Developer/ECS 102 Projects/Final Project/Project Files/DictMakeLetterLength.c388634675#388634675#0(0"0(0#0#78"/Developer/ECS 102 Projects/Final Project/Project Files/DictMakeLetterLength.c8620829088#1619"    cd "/Developer/ECS 102 Projects/Final Project/Project Files"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-generated-files.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-own-target-headers.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-all-target-headers.hmap" -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-project-headers.hmap" "-F/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug/include" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources/x86_64" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources" -c "/Developer/ECS 102 Projects/Final Project/Project Files/DictMakeLetterLength.c" -o "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/DictMakeLetterLength.o"0#
+
+CCompileC "build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/DictionaryDividers.o" "/Developer/ECS 102 Projects/Final Project/Project Files/DictionaryDividers.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s388617856.185402
+e388617856.389161
+r1
+xCompileC
+xbuild/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/DictionaryDividers.o
+x/Developer/ECS 102 Projects/Final Project/Project Files/DictionaryDividers.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Developer/ECS 102 Projects/Final Project/Project Files/DictionaryDividers.c: In function 'main':
+o/Developer/ECS 102 Projects/Final Project/Project Files/DictionaryDividers.c:28: warning: unused variable 'dist'
+lSLF07#2@84"Compile /Developer/ECS 102 Projects/Final Project/Project Files/DictionaryDividers.c388617856#388617856#0(211"/Developer/ECS 102 Projects/Final Project/Project Files/DictionaryDividers.c: In function 'main':/Developer/ECS 102 Projects/Final Project/Project Files/DictionaryDividers.c:28: warning: unused variable 'dist'1(22@22"Unused variable 'dist'388617856#98#113#0(6@76"/Developer/ECS 102 Projects/Final Project/Project Files/DictionaryDividers.c388617849#28#0#28#0#19"unused variable '*'0(0#0#76"/Developer/ECS 102 Projects/Final Project/Project Files/DictionaryDividers.c8619784192#1615"    cd "/Developer/ECS 102 Projects/Final Project/Project Files"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-generated-files.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-own-target-headers.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-all-target-headers.hmap" -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-project-headers.hmap" "-F/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug/include" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources/x86_64" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources" -c "/Developer/ECS 102 Projects/Final Project/Project Files/DictionaryDividers.c" -o "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/DictionaryDividers.o"0#
+
+CCompileC "build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/DictionaryFileFormator.o" "/Developer/ECS 102 Projects/Final Project/Project Files/DictionaryFileFormator.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s388776378.088674
+e388776378.097100
+r1
+xCompileC
+xbuild/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/DictionaryFileFormator.o
+x/Developer/ECS 102 Projects/Final Project/Project Files/DictionaryFileFormator.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Developer/ECS 102 Projects/Final Project/Project Files/DictionaryFileFormator.c388776378#388776378#0(222"/Developer/ECS 102 Projects/Final Project/Project Files/DictionaryFileFormator.c: In function 'main':/Developer/ECS 102 Projects/Final Project/Project Files/DictionaryFileFormator.c:25: warning: unused variable 'letter2'1(22@25"Unused variable 'letter2'388776378#102#120#0(6@80"/Developer/ECS 102 Projects/Final Project/Project Files/DictionaryFileFormator.c388776372#25#0#25#0#19"unused variable '*'0(0#0#80"/Developer/ECS 102 Projects/Final Project/Project Files/DictionaryFileFormator.c8621096864#1623"    cd "/Developer/ECS 102 Projects/Final Project/Project Files"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-generated-files.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-own-target-headers.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-all-target-headers.hmap" -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-project-headers.hmap" "-F/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug/include" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources/x86_64" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources" -c "/Developer/ECS 102 Projects/Final Project/Project Files/DictionaryFileFormator.c" -o "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/DictionaryFileFormator.o"0#
+
+CCompileC "build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/DictionarySort.o" "/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s388616600.048869
+e388616600.153745
+r0
+xCompileC
+xbuild/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/DictionarySort.o
+x/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c388616600#388616600#0(1781"/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c: In function 'main':/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c:28: error: expected expression before ';' token/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c:131: error: expected ',' or ';' at end of input/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c:131: error: expected declaration or statement at end of input/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c:28: warning: unused variable 'dist'/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c:27: warning: unused variable 'scale'/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c:26: warning: unused variable 'temp'/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c:25: warning: unused variable 'common'/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c:24: warning: unused variable 'letter'/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c:23: warning: unused variable 'k'/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c:23: warning: unused variable 'j'/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c:23: warning: unused variable 'i'/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c:22: warning: unused variable 'word'/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c:21: warning: unused variable 'length'/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c:20: warning: unused variable 'abet'/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c:19: warning: unused variable 'dict_src'15(4@36"Expected expression before ';' token388616600#94#121#0(6@72"/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c388616599#28#0#28#0#19"expected * before *0(4@35"Expected ',' or ';' at end of input388616600#215#121#0(6@72"/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c388616599#131#0#131#0#0"0(4@49"Expected declaration or statement at end of input388616600#336#135#0(6@72"/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c388616599#131#0#131#0#49"expected declaration or statement at end of input0(22@22"Unused variable 'dist'388616600#471#109#0(6@72"/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c388616599#28#0#28#0#19"unused variable '*'0(22@23"Unused variable 'scale'388616600#580#110#0(6@72"/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c388616599#27#0#27#0#19"unused variable '*'0(22@22"Unused variable 'temp'388616600#690#109#0(6@72"/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c388616599#26#0#26#0#19"unused variable '*'0(22@24"Unused variable 'common'388616600#799#111#0(6@72"/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c388616599#25#0#25#0#19"unused variable '*'0(22@24"Unused variable 'letter'388616600#910#111#0(6@72"/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c388616599#24#0#24#0#19"unused variable '*'0(22@19"Unused variable 'k'388616600#1021#106#0(6@72"/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c388616599#23#0#23#0#19"unused variable '*'0(22@19"Unused variable 'j'388616600#1127#106#0(6@72"/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c388616599#23#0#23#0#19"unused variable '*'0(22@19"Unused variable 'i'388616600#1233#106#0(6@72"/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c388616599#23#0#23#0#19"unused variable '*'0(22@22"Unused variable 'word'388616600#1339#109#0(6@72"/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c388616599#22#0#22#0#19"unused variable '*'0(22@24"Unused variable 'length'388616600#1448#111#0(6@72"/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c388616599#21#0#21#0#19"unused variable '*'0(22@22"Unused variable 'abet'388616600#1559#109#0(6@72"/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c388616599#20#0#20#0#19"unused variable '*'0(22@26"Unused variable 'dict_src'388616600#1668#113#0(6@72"/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c388616599#19#0#19#0#19"unused variable '*'0(0#0#72"/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c8615872672#1607"    cd "/Developer/ECS 102 Projects/Final Project/Project Files"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-generated-files.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-own-target-headers.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-all-target-headers.hmap" -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-project-headers.hmap" "-F/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug/include" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources/x86_64" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources" -c "/Developer/ECS 102 Projects/Final Project/Project Files/DictionarySort.c" -o "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/DictionarySort.o"1#
+
+CCompileC "build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/DictionaryStats.o" "/Developer/ECS 102 Projects/Final Project/Project Files/DictionaryStats.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s388617645.832835
+e388617645.956301
+r1
+xCompileC
+xbuild/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/DictionaryStats.o
+x/Developer/ECS 102 Projects/Final Project/Project Files/DictionaryStats.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Developer/ECS 102 Projects/Final Project/Project Files/DictionaryStats.c388617645#388617645#0(205"/Developer/ECS 102 Projects/Final Project/Project Files/DictionaryStats.c: In function 'main':/Developer/ECS 102 Projects/Final Project/Project Files/DictionaryStats.c:28: warning: unused variable 'dist'1(22@22"Unused variable 'dist'388617645#95#110#0(6@73"/Developer/ECS 102 Projects/Final Project/Project Files/DictionaryStats.c388617645#28#0#28#0#19"unused variable '*'0(0#0#73"/Developer/ECS 102 Projects/Final Project/Project Files/DictionaryStats.c8620188576#1609"    cd "/Developer/ECS 102 Projects/Final Project/Project Files"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-generated-files.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-own-target-headers.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-all-target-headers.hmap" -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-project-headers.hmap" "-F/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug/include" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources/x86_64" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources" -c "/Developer/ECS 102 Projects/Final Project/Project Files/DictionaryStats.c" -o "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/DictionaryStats.o"0#
+
+CCompileC "build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/dict_chk.o" "/Developer/ECS 102 Projects/Final Project/Project Files/dict_chk.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s388792196.708355
+e388792196.869188
+r1
+xCompileC
+xbuild/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/dict_chk.o
+x/Developer/ECS 102 Projects/Final Project/Project Files/dict_chk.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Developer/ECS 102 Projects/Final Project/Project Files/dict_chk.c388792196#388792196#0(0"0(0#0#66"/Developer/ECS 102 Projects/Final Project/Project Files/dict_chk.c8621763456#1595"    cd "/Developer/ECS 102 Projects/Final Project/Project Files"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-generated-files.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-own-target-headers.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-all-target-headers.hmap" -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-project-headers.hmap" "-F/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug/include" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources/x86_64" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources" -c "/Developer/ECS 102 Projects/Final Project/Project Files/dict_chk.c" -o "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/dict_chk.o"0#
+
+CCompileC "build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/main.1.o" "/Developer/ECS 102 Projects/Final Project/Project Files/main.1.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s389046622.148231
+e389046622.263433
+r1
+xCompileC
+xbuild/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/main.1.o
+x/Developer/ECS 102 Projects/Final Project/Project Files/main.1.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Developer/ECS 102 Projects/Final Project/Project Files/main.1.c: In function 'read_in':
+o/Developer/ECS 102 Projects/Final Project/Project Files/main.1.c:909: warning: implicit declaration of function 'strdlm'
+o/Developer/ECS 102 Projects/Final Project/Project Files/main.1.c:912: warning: implicit declaration of function 'ctrl_dispatch'
+lSLF07#2@72"Compile /Developer/ECS 102 Projects/Final Project/Project Files/main.1.c389046622#389046622#0(338"/Developer/ECS 102 Projects/Final Project/Project Files/main.1.c: In function 'read_in':/Developer/ECS 102 Projects/Final Project/Project Files/main.1.c:909: warning: implicit declaration of function 'strdlm'/Developer/ECS 102 Projects/Final Project/Project Files/main.1.c:912: warning: implicit declaration of function 'ctrl_dispatch'2(22@41"Implicit declaration of function 'strdlm'389046622#89#121#0(6@64"/Developer/ECS 102 Projects/Final Project/Project Files/main.1.c389046622#909#0#909#0#36"implicit declaration of function '*'0(22@48"Implicit declaration of function 'ctrl_dispatch'389046622#210#128#0(6@64"/Developer/ECS 102 Projects/Final Project/Project Files/main.1.c389046622#912#0#912#0#36"implicit declaration of function '*'0(0#0#64"/Developer/ECS 102 Projects/Final Project/Project Files/main.1.c8641519392#1591"    cd "/Developer/ECS 102 Projects/Final Project/Project Files"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-generated-files.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-own-target-headers.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-all-target-headers.hmap" -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-project-headers.hmap" "-F/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug/include" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources/x86_64" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources" -c "/Developer/ECS 102 Projects/Final Project/Project Files/main.1.c" -o "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/main.1.o"0#
+
+CCompileC "build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/main.alpha.o" "/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c" normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s389819634.512210
+e389819634.750721
+r1
+xCompileC
+xbuild/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/main.alpha.o
+x/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@76"Compile /Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c389819634#389819634#0(0"0(0#0#68"/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c8651606656#1734"    cd "/Developer/ECS 102 Projects/Final Project/Project Files"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Werror-implicit-function-declaration -Wreturn-type -Wmissing-braces -Wparentheses -Wunused-variable -Wshadow -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-generated-files.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-own-target-headers.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-all-target-headers.hmap" -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-project-headers.hmap" "-F/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug/include" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources/x86_64" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources" -c "/Developer/ECS 102 Projects/Final Project/Project Files/main.alpha.c" -o "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/main.alpha.o"0#
+
+CCompileC "build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/main.o" "/Developer/ECS 102 Projects/Final Project/Project Files/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s385630950.653837
+e385630950.737235
+r1
+xCompileC
+xbuild/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/main.o
+x/Developer/ECS 102 Projects/Final Project/Project Files/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Developer/ECS 102 Projects/Final Project/Project Files/main.c385630950#385630950#0(188"/Developer/ECS 102 Projects/Final Project/Project Files/main.c: In function 'main':/Developer/ECS 102 Projects/Final Project/Project Files/main.c:68: warning: unused variable 'hash_ctrl'1(22@27"Unused variable 'hash_ctrl'385630950#84#104#0(6@62"/Developer/ECS 102 Projects/Final Project/Project Files/main.c385630950#68#0#68#0#19"unused variable '*'0(0#0#62"/Developer/ECS 102 Projects/Final Project/Project Files/main.c8626293376#1587"    cd "/Developer/ECS 102 Projects/Final Project/Project Files"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-generated-files.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-own-target-headers.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-all-target-headers.hmap" -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-project-headers.hmap" "-F/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug/include" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources/x86_64" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources" -c "/Developer/ECS 102 Projects/Final Project/Project Files/main.c" -o "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC "build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/main.old.o" "/Developer/ECS 102 Projects/Final Project/Project Files/main.old.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s389047124.616356
+e389047124.818305
+r1
+xCompileC
+xbuild/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/main.old.o
+x/Developer/ECS 102 Projects/Final Project/Project Files/main.old.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Developer/ECS 102 Projects/Final Project/Project Files/main.old.c389047124#389047124#0(0"0(0#0#66"/Developer/ECS 102 Projects/Final Project/Project Files/main.old.c8628495200#1595"    cd "/Developer/ECS 102 Projects/Final Project/Project Files"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-generated-files.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-own-target-headers.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-all-target-headers.hmap" -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-project-headers.hmap" "-F/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug/include" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources/x86_64" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources" -c "/Developer/ECS 102 Projects/Final Project/Project Files/main.old.c" -o "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/main.old.o"0#
+
+CCompileC "build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/main.old.o" "/Developer/ECS 102 Projects/Final Project/Project Files/main.old.c" normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/mainNEW.o" "/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s389727085.057629
+e389727085.372455
+r1
+xCompileC
+xbuild/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/mainNEW.o
+x/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c: In function 'update_save':
+o/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:1139: warning: passing argument 2 of 'sort_scores' from incompatible pointer type
+lSLF07#2@73"Compile /Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389727085#389727085#0(242"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c: In function 'update_save':/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:1139: warning: passing argument 2 of 'sort_scores' from incompatible pointer type1(22@66"Passing argument 2 of 'sort_scores' from incompatible pointer type389727085#94#148#0(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389725172#1139#0#1139#0#56"passing argument * of '*' from incompatible pointer type0(0#0#65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c8624854208#1616"    cd "/Developer/ECS 102 Projects/Final Project/Project Files"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wparentheses -Wunused-variable -Wshadow -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-generated-files.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-own-target-headers.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-all-target-headers.hmap" -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-project-headers.hmap" "-F/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug/include" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources/x86_64" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources" -c "/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c" -o "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/mainNEW.o"0#
+
+CCompileC "build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/mainNEW.o" "/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c" normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s389730768.558394
+e389730768.843701
+r1
+xCompileC
+xbuild/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/mainNEW.o
+x/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:1134:2:{1134:2-1134:22}: warning: incompatible integer to pointer conversion passing 'char' to parameter of type 'void *'
+o         strcpy(names[i],tag);                                                           // Add new data to the arrays
+o         ^~~~~~~~~~~~~~~~~~~~
+oIn file included from /Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:13:
+oIn file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h:148:
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/secure/_string.h:84:5: note: instantiated from:
+o   ((__darwin_obsz0 (dest) != (size_t) -1)                               \
+o     ^
+o/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:1134:2: note: instantiated from:
+o         strcpy(names[i],tag);                                                           // Add new data to the arrays
+o         ^      ~~~~~~~~
+o/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:1134:9: note: instantiated from:
+o         strcpy(names[i],tag);                                                           // Add new data to the arrays
+o                ^~~~~~~~
+o/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:1134:2:{1134:2-1134:22}: warning: incompatible integer to pointer conversion passing 'char' to parameter of type 'void *'
+o         strcpy(names[i],tag);                                                           // Add new data to the arrays
+o         ^~~~~~~~~~~~~~~~~~~~
+oIn file included from /Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:13:
+oIn file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h:148:
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/secure/_string.h:85:41: note: instantiated from:
+o    ? __builtin___strcpy_chk (dest, src, __darwin_obsz (dest))           \
+o                                         ^
+o/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:1134:2: note: instantiated from:
+o         strcpy(names[i],tag);                                                           // Add new data to the arrays
+o         ^      ~~~~~~~~
+o/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:1134:9: note: instantiated from:
+o         strcpy(names[i],tag);                                                           // Add new data to the arrays
+o                ^~~~~~~~
+o/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:1134:2:{1134:2-1134:22}: warning: incompatible integer to pointer conversion passing 'char' to parameter of type 'char *'
+o         strcpy(names[i],tag);                                                           // Add new data to the arrays
+o         ^~~~~~~~~~~~~~~~~~~~
+o/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:1134:9: note: instantiated from:
+o         strcpy(names[i],tag);                                                           // Add new data to the arrays
+o                ^~~~~~~~
+o/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:1134:2:{1134:2-1134:22}: warning: incompatible integer to pointer conversion passing 'char' to parameter of type 'char *'
+o         strcpy(names[i],tag);                                                           // Add new data to the arrays
+o         ^~~~~~~~~~~~~~~~~~~~
+o/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:1134:9: note: instantiated from:
+o         strcpy(names[i],tag);                                                           // Add new data to the arrays
+o                ^~~~~~~~
+oIn file included from /Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:13:
+oIn file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h:148:
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/secure/_string.h:89:39: note: passing argument to parameter '__dest' here
+o __inline_strcpy_chk (char *__restrict __dest, const char *__restrict __src)
+o                                       ^
+o/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:1139:26:{1139:26-1139:31}: warning: incompatible pointer types passing 'char *' to parameter of type 'char (*)[20]'
+o         if (sort_scores(number, names, highscore, avgscore))
+o                                 ^~~~~
+o/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:75:29: note: passing argument to parameter 'names' here
+o int sort_scores(int n, char names[][20], double high[], double avg[] );
+o                             ^
+o/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:1154:25:{1154:22-1154:26}{1154:45-1154:53}: warning: conversion specifies type 'char *' but the argument has type 'char' [-Wformat]
+o                 fprintf(savfile,"\n%20s %10.8lf %10.8lf", names[i], highscore[i], avgscore[i]);
+o                                    ~~~^                   ~~~~~~~~
+o                                    %20hhd
+o/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:1255:2:{1255:10-1255:24}: warning: switch condition has boolean value
+o         switch ((ovr_wrt && 1)) {
+o         ^       ~~~~~~~~~~~~~~
+o7 warnings generated.
+lSLF07#2@73"Compile /Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#389730768#0(5077"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:1134:2:{1134:2-1134:22}: warning: incompatible integer to pointer conversion passing 'char' to parameter of type 'void *'         strcpy(names[i],tag);                                                           // Add new data to the arrays         ^~~~~~~~~~~~~~~~~~~~In file included from /Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:13:In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h:148:/Developer/SDKs/MacOSX10.6.sdk/usr/include/secure/_string.h:84:5: note: instantiated from:   ((__darwin_obsz0 (dest) != (size_t) -1)                               \     ^/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:1134:2: note: instantiated from:         strcpy(names[i],tag);                                                           // Add new data to the arrays         ^      ~~~~~~~~/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:1134:9: note: instantiated from:         strcpy(names[i],tag);                                                           // Add new data to the arrays                ^~~~~~~~/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:1134:2:{1134:2-1134:22}: warning: incompatible integer to pointer conversion passing 'char' to parameter of type 'void *'         strcpy(names[i],tag);                                                           // Add new data to the arrays         ^~~~~~~~~~~~~~~~~~~~In file included from /Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:13:In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h:148:/Developer/SDKs/MacOSX10.6.sdk/usr/include/secure/_string.h:85:41: note: instantiated from:    ? __builtin___strcpy_chk (dest, src, __darwin_obsz (dest))           \                                         ^/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:1134:2: note: instantiated from:         strcpy(names[i],tag);                                                           // Add new data to the arrays         ^      ~~~~~~~~/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:1134:9: note: instantiated from:         strcpy(names[i],tag);                                                           // Add new data to the arrays                ^~~~~~~~/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:1134:2:{1134:2-1134:22}: warning: incompatible integer to pointer conversion passing 'char' to parameter of type 'char *'         strcpy(names[i],tag);                                                           // Add new data to the arrays         ^~~~~~~~~~~~~~~~~~~~/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:1134:9: note: instantiated from:         strcpy(names[i],tag);                                                           // Add new data to the arrays                ^~~~~~~~/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:1134:2:{1134:2-1134:22}: warning: incompatible integer to pointer conversion passing 'char' to parameter of type 'char *'         strcpy(names[i],tag);                                                           // Add new data to the arrays         ^~~~~~~~~~~~~~~~~~~~/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:1134:9: note: instantiated from:         strcpy(names[i],tag);                                                           // Add new data to the arrays                ^~~~~~~~In file included from /Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:13:In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h:148:/Developer/SDKs/MacOSX10.6.sdk/usr/include/secure/_string.h:89:39: note: passing argument to parameter '__dest' here __inline_strcpy_chk (char *__restrict __dest, const char *__restrict __src)                                       ^/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:1139:26:{1139:26-1139:31}: warning: incompatible pointer types passing 'char *' to parameter of type 'char (*)[20]'         if (sort_scores(number, names, highscore, avgscore))                                 ^~~~~/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:75:29: note: passing argument to parameter 'names' here int sort_scores(int n, char names[][20], double high[], double avg[] );                             ^/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:1154:25:{1154:22-1154:26}{1154:45-1154:53}: warning: conversion specifies type 'char *' but the argument has type 'char' [-Wformat]                 fprintf(savfile,"\n%20s %10.8lf %10.8lf", names[i], highscore[i], avgscore[i]);                                    ~~~^                   ~~~~~~~~                                    %20hhd/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:1255:2:{1255:10-1255:24}: warning: switch condition has boolean value         switch ((ovr_wrt && 1)) {         ^       ~~~~~~~~~~~~~~7 warnings generated.9(22@87"Incompatible integer to pointer conversion passing 'char' to parameter of type 'void *'389730768#0#188#3(13@78"Instantiated from: /Developer/SDKs/MacOSX10.6.sdk/usr/include/secure/_string.h389730768#508#91#3(7@78"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h:148:389730768#429#79#0(6@51"/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h292381801#148#0#148#0#0"0(7@91"In file included from /Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:13:389730768#337#92#0(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#13#0#13#0#0"0(13@141"Instantiated from: /Developer/SDKs/MacOSX10.6.sdk/usr/include/secure/_string.h in /Developer/SDKs/MacOSX10.6.sdk/usr/include/secure/_string.h389730768#18446744073709551615#0#0(6@59"/Developer/SDKs/MacOSX10.6.sdk/usr/include/secure/_string.h292381801#84#5#0#0#0"0(6@59"/Developer/SDKs/MacOSX10.6.sdk/usr/include/secure/_string.h292381801#84#5#0#0#18"instantiated from:0(13@84"Instantiated from: /Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#681#99#0(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1134#2#0#0#18"instantiated from:0(13@84"Instantiated from: /Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#924#99#0(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1134#9#0#0#18"instantiated from:0(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1134#2#0#0#44"incompatible integer to pointer conversion *1(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1134#2#1134#22#22@87"Incompatible integer to pointer conversion passing 'char' to parameter of type 'void *'389730768#1167#188#3(13@78"Instantiated from: /Developer/SDKs/MacOSX10.6.sdk/usr/include/secure/_string.h389730768#1675#92#3(7@78"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h:148:389730768#18446744073709551615#0#0(6@51"/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h292381801#148#0#148#0#0"0(7@91"In file included from /Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:13:389730768#18446744073709551615#0#0(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#13#0#13#0#0"0(13@141"Instantiated from: /Developer/SDKs/MacOSX10.6.sdk/usr/include/secure/_string.h in /Developer/SDKs/MacOSX10.6.sdk/usr/include/secure/_string.h389730768#18446744073709551615#0#0(6@59"/Developer/SDKs/MacOSX10.6.sdk/usr/include/secure/_string.h292381801#85#41#0#0#0"0(6@59"/Developer/SDKs/MacOSX10.6.sdk/usr/include/secure/_string.h292381801#85#41#0#0#18"instantiated from:0(13@84"Instantiated from: /Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1885#99#0(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1134#2#0#0#18"instantiated from:0(13@84"Instantiated from: /Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#2128#99#0(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1134#9#0#0#18"instantiated from:0(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1134#2#0#0#44"incompatible integer to pointer conversion *1(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1134#2#1134#22#22@87"Incompatible integer to pointer conversion passing 'char' to parameter of type 'char *'389730768#2371#188#1(13@84"Instantiated from: /Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#2708#99#0(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1134#9#0#0#18"instantiated from:0(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1134#2#0#0#44"incompatible integer to pointer conversion *1(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1134#2#1134#22#22@87"Incompatible integer to pointer conversion passing 'char' to parameter of type 'char *'389730768#2951#188#1(13@84"Instantiated from: /Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#3288#99#0(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1134#9#0#0#18"instantiated from:0(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1134#2#0#0#44"incompatible integer to pointer conversion *1(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1134#2#1134#22#13@43"Passing argument to parameter '__dest' here389730768#3702#117#3(7@78"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h:148:389730768#18446744073709551615#0#0(6@51"/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h292381801#148#0#148#0#0"0(7@91"In file included from /Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c:13:389730768#18446744073709551615#0#0(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#13#0#13#0#0"0(13@106"Passing argument to parameter '__dest' here in /Developer/SDKs/MacOSX10.6.sdk/usr/include/secure/_string.h389730768#18446744073709551615#0#0(6@59"/Developer/SDKs/MacOSX10.6.sdk/usr/include/secure/_string.h292381801#89#39#0#0#0"0(6@59"/Developer/SDKs/MacOSX10.6.sdk/usr/include/secure/_string.h292381801#89#39#0#0#0"0(22@79"Incompatible pointer types passing 'char *' to parameter of type 'char (*)[20]'389730768#3937#182#0(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1139#26#0#0#28"incompatible pointer types *1(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1139#26#1139#31#13@42"Passing argument to parameter 'names' here389730768#4220#122#0(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#75#29#0#0#0"0(22@67"Conversion specifies type 'char *' but the argument has type 'char'389730768#4446#198#0(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1154#25#0#0#55"conversion specifies type * but the argument has type *2(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1154#22#1154#26#6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1154#45#1154#53#22@34"Switch condition has boolean value389730768#4852#136#0(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1255#2#0#0#34"switch condition has boolean value1(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c389730768#1255#10#1255#24#0#0#65"/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c8620590144#1728"    cd "/Developer/ECS 102 Projects/Final Project/Project Files"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Werror-implicit-function-declaration -Wreturn-type -Wmissing-braces -Wparentheses -Wunused-variable -Wshadow -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-generated-files.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-own-target-headers.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-all-target-headers.hmap" -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-project-headers.hmap" "-F/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug/include" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources/x86_64" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources" -c "/Developer/ECS 102 Projects/Final Project/Project Files/mainNEW.c" -o "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/mainNEW.o"0#
+
+CCompileC "build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/read_in.o" "/Developer/ECS 102 Projects/Final Project/Project Files/read_in.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s389039859.091993
+e389039859.249626
+r1
+xCompileC
+xbuild/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/read_in.o
+x/Developer/ECS 102 Projects/Final Project/Project Files/read_in.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Developer/ECS 102 Projects/Final Project/Project Files/read_in.c: In function 'main':
+o/Developer/ECS 102 Projects/Final Project/Project Files/read_in.c:83: warning: unused variable 'tag'
+lSLF07#2@73"Compile /Developer/ECS 102 Projects/Final Project/Project Files/read_in.c389039859#389039859#0(188"/Developer/ECS 102 Projects/Final Project/Project Files/read_in.c: In function 'main':/Developer/ECS 102 Projects/Final Project/Project Files/read_in.c:83: warning: unused variable 'tag'1(22@21"Unused variable 'tag'389039859#87#101#0(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/read_in.c389039858#83#0#83#0#19"unused variable '*'0(0#0#65"/Developer/ECS 102 Projects/Final Project/Project Files/read_in.c8640475936#1593"    cd "/Developer/ECS 102 Projects/Final Project/Project Files"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-generated-files.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-own-target-headers.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-all-target-headers.hmap" -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-project-headers.hmap" "-F/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug/include" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources/x86_64" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources" -c "/Developer/ECS 102 Projects/Final Project/Project Files/read_in.c" -o "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/read_in.o"0#
+
+CCompileC "build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/test.o" "/Developer/ECS 102 Projects/Final Project/Project Files/test.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s388817858.474014
+e388817858.752588
+r1
+xCompileC
+xbuild/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/test.o
+x/Developer/ECS 102 Projects/Final Project/Project Files/test.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Developer/ECS 102 Projects/Final Project/Project Files/test.c388817858#388817858#0(0"0(0#0#62"/Developer/ECS 102 Projects/Final Project/Project Files/test.c8620575264#1587"    cd "/Developer/ECS 102 Projects/Final Project/Project Files"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-generated-files.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-own-target-headers.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-all-target-headers.hmap" -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-project-headers.hmap" "-F/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug/include" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources/x86_64" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources" -c "/Developer/ECS 102 Projects/Final Project/Project Files/test.c" -o "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/test.o"0#
+
+CCompileC "build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/testbed.o" "/Developer/ECS 102 Projects/Final Project/Project Files/testbed.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s389569223.133189
+e389569223.360470
+r1
+xCompileC
+xbuild/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/testbed.o
+x/Developer/ECS 102 Projects/Final Project/Project Files/testbed.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Developer/ECS 102 Projects/Final Project/Project Files/testbed.c: In function 'strdlm':
+o/Developer/ECS 102 Projects/Final Project/Project Files/testbed.c:58: warning: pointer/integer type mismatch in conditional expression
+lSLF07#2@73"Compile /Developer/ECS 102 Projects/Final Project/Project Files/testbed.c389569223#389569223#0(224"/Developer/ECS 102 Projects/Final Project/Project Files/testbed.c: In function 'strdlm':/Developer/ECS 102 Projects/Final Project/Project Files/testbed.c:58: warning: pointer/integer type mismatch in conditional expression1(22@55"Pointer/integer type mismatch in conditional expression389569223#89#135#0(6@65"/Developer/ECS 102 Projects/Final Project/Project Files/testbed.c389569223#58#0#58#0#0"0(0#0#65"/Developer/ECS 102 Projects/Final Project/Project Files/testbed.c8617306848#1593"    cd "/Developer/ECS 102 Projects/Final Project/Project Files"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-generated-files.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-own-target-headers.hmap" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-all-target-headers.hmap" -iquote "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Project Files-project-headers.hmap" "-F/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug/include" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources/x86_64" "-I/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/DerivedSources" -c "/Developer/ECS 102 Projects/Final Project/Project Files/testbed.c" -o "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/testbed.o"0#
+
+CCompileC "build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/word_searcher.o" "/Developer/ECS 102 Projects/Final Project/Project Files/word_searcher.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CLd "/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug/Project Files" normal x86_64
+s389819623.856726
+e389819623.891520
+r1
+xLd
+x/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug/Project Files
+xnormal
+xx86_64
+lSLF07#2@86"Link /Developer/ECS 102 Projects/Final Project/Project Files/build/Debug/Project Files389819623#389819623#0(0"0(0#0#0"8651558336#615"    cd "/Developer/ECS 102 Projects/Final Project/Project Files"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/clang -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug" "-F/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug" -filelist "/Developer/ECS 102 Projects/Final Project/Project Files/build/Project Files.build/Debug/Project Files.build/Objects-normal/x86_64/Project Files.LinkFileList" -mmacosx-version-min=10.6 -o "/Developer/ECS 102 Projects/Final Project/Project Files/build/Debug/Project Files"0#
+
